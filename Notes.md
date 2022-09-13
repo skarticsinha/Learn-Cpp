@@ -32,27 +32,27 @@ A smallest individual element of a program that makes a meaningfull sense to the
 
 **Keyword:** *Specially reserved identifiers that can not be used as names for program variables or other user-defined elements.*
 
-**->** Every keyword has a predefined meaning that cannot be changed.
+  **->** Every keyword has a predefined meaning that cannot be changed.
 
-**->** Eg. Data types (int, float, char, etc), while, do while, public, private, union, break, goto
+  **->** Eg. Data types (int, float, char, etc), while, do while, public, private, union, break, goto
 
-**->** Total number of Keywords is ***95***.
+  **->** Total number of Keywords is ***95***.
 
 **Identifiers:** *Any name given a  variables,  functions,  array, class. It is given to a element so we can identify it easily.*
 
 <ins>**Rules**</ins>
 
-**->** Only alphanumeric characters, digits and underscores are allowed. 
+  **->** Only alphanumeric characters, digits and underscores are allowed. 
 
-**->** Name cannot start with a digit but it can start with an underscore.
+  **->** Name cannot start with a digit but it can start with an underscore.
 
-**->** Uppercase and lower case are considered different. 
+  **->** Uppercase and lower case are considered different. 
 
-**->** Keywords cannot be used as a variable name.
+  **->** Keywords cannot be used as a variable name.
 
-**->** No white spaces is in a variable name.
+  **->** No white spaces is in a variable name.
 
-**->** **Word limit** It must not excede **31 charecters**. 
+  **->** **Word limit** It must not excede **31 charecters**. 
 
 Constant: It is used with keyword "const".
 
